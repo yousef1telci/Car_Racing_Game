@@ -1,0 +1,12 @@
+C:\Users\ywsef\source\C#Forms\Car_Racing_C#\Car_Racing_C#\bin\Debug\Car_Racing_C#.exe.config
+C:\Users\ywsef\source\C#Forms\Car_Racing_C#\Car_Racing_C#\bin\Debug\Car_Racing_C#.exe
+C:\Users\ywsef\source\C#Forms\Car_Racing_C#\Car_Racing_C#\bin\Debug\Car_Racing_C#.pdb
+C:\Users\ywsef\source\C#Forms\Car_Racing_C#\Car_Racing_C#\obj\Debug\Car_Racing_C#.csproj.AssemblyReference.cache
+C:\Users\ywsef\source\C#Forms\Car_Racing_C#\Car_Racing_C#\obj\Debug\Car_Racing_C_.Form1.resources
+C:\Users\ywsef\source\C#Forms\Car_Racing_C#\Car_Racing_C#\obj\Debug\Car_Racing_C_.Properties.Resources.resources
+C:\Users\ywsef\source\C#Forms\Car_Racing_C#\Car_Racing_C#\obj\Debug\Car_Racing_C_.Resources.Resource1.resources
+C:\Users\ywsef\source\C#Forms\Car_Racing_C#\Car_Racing_C#\obj\Debug\Car_Racing_C#.csproj.GenerateResource.cache
+C:\Users\ywsef\source\C#Forms\Car_Racing_C#\Car_Racing_C#\obj\Debug\Car_Racing_C#.csproj.CoreCompileInputs.cache
+C:\Users\ywsef\source\C#Forms\Car_Racing_C#\Car_Racing_C#\obj\Debug\Car_Racing_C#.exe
+C:\Users\ywsef\source\C#Forms\Car_Racing_C#\Car_Racing_C#\obj\Debug\Car_Racing_C#.pdb
+C:\Users\ywsef\source\C#Forms\Car_Racing_C#\Car_Racing_C#\obj\Debug\Car_Racing_C_.Resources.Resource2.resources
